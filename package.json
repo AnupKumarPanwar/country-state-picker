@@ -1,0 +1,26 @@
+{
+  "name": "country-state-picker",
+  "version": "1.0.0",
+  "description": "NPM package to get the list of countries and their states.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnupKumarPanwar/country-state-picker.git"
+  },
+  "keywords": [
+    "country",
+    "state",
+    "picker",
+    "location",
+    "place"
+  ],
+  "author": "Anup Kumar Panwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnupKumarPanwar/country-state-picker/issues"
+  },
+  "homepage": "https://github.com/AnupKumarPanwar/country-state-picker#readme"
+}
