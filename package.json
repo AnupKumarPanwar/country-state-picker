@@ -1,6 +1,6 @@
 {
   "name": "country-state-picker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "NPM package to get the list of countries and their states.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
