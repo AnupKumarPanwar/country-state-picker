@@ -1,11 +1,11 @@
 exports.getCountries = function () {
-    let countries = require('./countries.json');
+    let countries = require('./data/countries.json');
     console.log(countries);
     return countries;
 }
 
 exports.getStates = function (countryCode) {
-    let states = require('./states.json');
+    let states = require('./data/states.json');
     try {
         console.log(states[countryCode]);
         return states[countryCode];
