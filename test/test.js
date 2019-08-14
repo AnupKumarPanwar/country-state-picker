@@ -1,9 +1,9 @@
 'use strict';
-var expect = require('chai').expect;
-var index = require('../dist/index.js');
+const expect = require('chai').expect;
+const index = require('../dist/index.js');
 describe('Country-state-picker function test', () => {
     it('should return Indian states', () => {
-        var result = index.getStates("in");
+        const result = index.getStates("in");
         expect(JSON.stringify(result)).to.equal(JSON.stringify([
             "Assam",
             "Goa",

@@ -33,7 +33,6 @@ This function will return the array of all the countries.
       code: 'ad'
     }
   ...
-  ...
 ]
 ```
 
@@ -48,7 +47,7 @@ This function will return the array of all the states of a given country.
 To get the list of all the states of INDIA, the function call will look like:
 
 ```javascript
-let states = getStates('in')
+let states = getStates('in');
 
 console.log(states)
 ```
