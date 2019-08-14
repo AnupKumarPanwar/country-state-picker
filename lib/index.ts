@@ -1,4 +1,4 @@
-import * as countries from "./data/countries";
+import countries from "./data/countries";
 import states from "./data/states";
 
 export function getCountries(): any {

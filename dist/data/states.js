@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 var states = {
-    "af": [
+    af: [
         "Badakhshan",
         "Badghis",
         "Balkh",
@@ -37,7 +37,7 @@ var states = {
         "Wilayat-e Takhar",
         "Wilayat-e Zabul"
     ],
-    "al": [
+    al: [
         "Qarku i Beratit",
         "Qarku i Dibres",
         "Qarku i Durresit",
@@ -51,7 +51,7 @@ var states = {
         "Qarku i Tiranes",
         "Qarku i Vlores"
     ],
-    "dz": [
+    dz: [
         "Adrar",
         "Annaba",
         "El Bayadh",
@@ -101,7 +101,7 @@ var states = {
         "Wilaya de Tizi Ouzo",
         "Wilaya de Tlemcen"
     ],
-    "ad": [
+    ad: [
         "Andorra la Vella",
         "Canillo",
         "Encamp",
@@ -110,7 +110,7 @@ var states = {
         "Ordino",
         "Sant Julia de Loria"
     ],
-    "ao": [
+    ao: [
         "Bengo Province",
         "Benguela",
         "Cabinda",
@@ -130,7 +130,7 @@ var states = {
         "Provincia do Uige",
         "Zaire"
     ],
-    "ai": [
+    ai: [
         "Blowing Point",
         "East End",
         "George Hill",
@@ -146,7 +146,7 @@ var states = {
         "The Valley",
         "West End"
     ],
-    "ag": [
+    ag: [
         "Barbuda",
         "Parish of Saint George",
         "Parish of Saint John",
@@ -156,7 +156,7 @@ var states = {
         "Parish of Saint Philip",
         "Redonda"
     ],
-    "ar": [
+    ar: [
         "Catamarca Province",
         "Chaco Province",
         "Chubut Province",
@@ -182,7 +182,7 @@ var states = {
         "Tierra del Fuego Province",
         "Tucuman Province"
     ],
-    "am": [
+    am: [
         "Aragatsotni Marz",
         "Ararati Marz",
         "Armaviri Marz",
@@ -195,8 +195,8 @@ var states = {
         "Vayots' Dzor",
         "Yerevan"
     ],
-    "aw": [],
-    "au": [
+    aw: [],
+    au: [
         "Australian Capital Territory",
         "Northern Territory",
         "State of New South Wales",
@@ -206,7 +206,7 @@ var states = {
         "State of Victoria",
         "State of Western Australia"
     ],
-    "at": [
+    at: [
         "Burgenland",
         "Kaernten",
         "Niederoesterreich",
@@ -217,7 +217,7 @@ var states = {
         "Vorarlberg",
         "Wien"
     ],
-    "az": [
+    az: [
         "Absheron Rayon",
         "Aghdam Rayon",
         "Aghdash Rayon",
@@ -291,7 +291,7 @@ var states = {
         "Zaqatala Rayon",
         "Zardab Rayon"
     ],
-    "bs": [
+    bs: [
         "Acklins Island District",
         "Berry Islands District",
         "Bimini District",
@@ -325,13 +325,13 @@ var states = {
         "Spanish Wells District",
         "West Grand Bahama District"
     ],
-    "bh": [
+    bh: [
         "Capital Governorate",
         "Muharraq Governorate",
         "Northern Governorate",
         "Southern Governorate"
     ],
-    "bd": [
+    bd: [
         "Barisal Division",
         "Chittagong",
         "Dhaka Division",
@@ -341,7 +341,7 @@ var states = {
         "Rangpur Division",
         "Sylhet Division"
     ],
-    "bb": [
+    bb: [
         "Christ Church",
         "Saint Andrew",
         "Saint George",
@@ -354,7 +354,7 @@ var states = {
         "Saint Philip",
         "Saint Thomas"
     ],
-    "by": [
+    by: [
         "Brest Oblast",
         "Gomel Oblast",
         "Grodno Oblast",
@@ -363,12 +363,8 @@ var states = {
         "Mogilyov Oblast",
         "Vitebsk Oblast"
     ],
-    "be": [
-        "Bruxelles-Capitale",
-        "Flanders",
-        "Wallonia"
-    ],
-    "bz": [
+    be: ["Bruxelles-Capitale", "Flanders", "Wallonia"],
+    bz: [
         "Belize District",
         "Cayo District",
         "Corozal District",
@@ -376,7 +372,7 @@ var states = {
         "Stann Creek District",
         "Toledo District"
     ],
-    "bj": [
+    bj: [
         "Alibori",
         "Atakora Department",
         "Atlantique Department",
@@ -390,7 +386,7 @@ var states = {
         "Plateau Department",
         "Zou Department"
     ],
-    "bm": [
+    bm: [
         "Devonshire Parish",
         "Hamilton",
         "Paget Parish",
@@ -402,7 +398,7 @@ var states = {
         "Southampton Parish",
         "Warwick Parish"
     ],
-    "bt": [
+    bt: [
         "Bumthang Dzongkhag",
         "Chhukha Dzongkhag",
         "Dagana Dzongkhag",
@@ -424,7 +420,7 @@ var states = {
         "Wangdue Phodrang Dzongkhag",
         "Zhemgang Dzongkhag"
     ],
-    "bo": [
+    bo: [
         "Departamento de Chuquisaca",
         "Departamento de Cochabamba",
         "Departamento de La Paz",
@@ -435,12 +431,8 @@ var states = {
         "Departamento de Tarija",
         "El Beni"
     ],
-    "ba": [
-        "Brcko",
-        "Federation of Bosnia and Herzegovina",
-        "Republika Srpska"
-    ],
-    "bw": [
+    ba: ["Brcko", "Federation of Bosnia and Herzegovina", "Republika Srpska"],
+    bw: [
         "Central District",
         "Ghanzi District",
         "Kgalagadi District",
@@ -451,7 +443,7 @@ var states = {
         "South East District",
         "Southern District"
     ],
-    "br": [
+    br: [
         "Acre",
         "Alagoas",
         "Amapa",
@@ -480,13 +472,13 @@ var states = {
         "Sergipe",
         "Tocantins"
     ],
-    "bn": [
+    bn: [
         "Belait District",
         "Brunei and Muara District",
         "Temburong District",
         "Tutong District"
     ],
-    "bg": [
+    bg: [
         "Blagoevgrad",
         "Burgas",
         "Gabrovo",
@@ -516,7 +508,7 @@ var states = {
         "Sofia-Grad",
         "Varna"
     ],
-    "bf": [
+    bf: [
         "Boucle du Mouhoun Region",
         "Cascades Region",
         "Centre",
@@ -531,7 +523,7 @@ var states = {
         "Sahel",
         "Southwest Region"
     ],
-    "bi": [
+    bi: [
         "Bubanza Province",
         "Bujumbura Mairie Province",
         "Bujumbura Rural Province",
@@ -551,7 +543,7 @@ var states = {
         "Rutana Province",
         "Ruyigi Province"
     ],
-    "kh": [
+    kh: [
         "Banteay Meanchey",
         "Battambang",
         "Kampong Cham",
@@ -578,7 +570,7 @@ var states = {
         "Takeo",
         "Tboung Khmum"
     ],
-    "cm": [
+    cm: [
         "Adamaoua Region",
         "Centre Region",
         "East Region",
@@ -590,7 +582,7 @@ var states = {
         "South-West Region",
         "West Region"
     ],
-    "ca": [
+    ca: [
         "Alberta",
         "British Columbia",
         "Manitoba",
@@ -605,7 +597,7 @@ var states = {
         "Saskatchewan",
         "Yukon"
     ],
-    "cv": [
+    cv: [
         "Concelho da Boa Vista",
         "Concelho da Brava",
         "Concelho da Praia",
@@ -629,7 +621,7 @@ var states = {
         "Sal Municipality",
         "Sao Lourenco dos Orgaos"
     ],
-    "ky": [
+    ky: [
         "Bodden Town",
         "East End",
         "George Town",
@@ -637,7 +629,7 @@ var states = {
         "Sister Island",
         "West Bay"
     ],
-    "cf": [
+    cf: [
         "Bamingui-Bangoran",
         "Basse-Kotto",
         "Commune de Bangui",
@@ -656,7 +648,7 @@ var states = {
         "Prefecture de la Sangha-Mbaere",
         "Vakaga"
     ],
-    "td": [
+    td: [
         "Barh el Gazel",
         "Batha Region",
         "Borkou Region",
@@ -681,7 +673,7 @@ var states = {
         "Tibesti Region",
         "Wadi Fira Region"
     ],
-    "cl": [
+    cl: [
         "Antofagasta",
         "Atacama",
         "Aysen",
@@ -698,7 +690,7 @@ var states = {
         "Region del Libertador General Bernardo O'Higgins",
         "Region Metropolitana de Santiago"
     ],
-    "cn": [
+    cn: [
         "Anhui Sheng",
         "Beijing Shi",
         "Chongqing Shi",
@@ -731,9 +723,9 @@ var states = {
         "Yunnan Sheng",
         "Zhejiang Sheng"
     ],
-    "cx": [],
-    "cc": [],
-    "co": [
+    cx: [],
+    cc: [],
+    co: [
         "Amazonas",
         "Departamento de Antioquia",
         "Departamento de Arauca",
@@ -768,12 +760,8 @@ var states = {
         "Providencia y Santa Catalina, Departamento de Archipielago de San Andres",
         "Quindio Department"
     ],
-    "km": [
-        "Grande Comore",
-        "Moheli",
-        "Ndzuwani"
-    ],
-    "cg": [
+    km: ["Grande Comore", "Moheli", "Ndzuwani"],
+    cg: [
         "Commune de Brazzaville",
         "Cuvette",
         "Cuvette-Ouest",
@@ -787,7 +775,7 @@ var states = {
         "Region du Niari",
         "Sangha"
     ],
-    "ck": [
+    ck: [
         "Aitutaki",
         "Ati",
         "Ma'uke",
@@ -800,7 +788,7 @@ var states = {
         "Rakahanga",
         "Rarotonga"
     ],
-    "cr": [
+    cr: [
         "Provincia de Alajuela",
         "Provincia de Cartago",
         "Provincia de Guanacaste",
@@ -809,7 +797,7 @@ var states = {
         "Provincia de Puntarenas",
         "Provincia de San Jose"
     ],
-    "ci": [
+    ci: [
         "Abidjan",
         "Bas-Sassandra",
         "Comoe",
@@ -825,7 +813,7 @@ var states = {
         "Yamoussoukro Autonomous District",
         "Zanzan"
     ],
-    "hr": [
+    hr: [
         "Bjelovarsko-Bilogorska Zupanija",
         "Brodsko-Posavska Zupanija",
         "Dubrovacko-Neretvanska Zupanija",
@@ -848,7 +836,7 @@ var states = {
         "Zadarska Zupanija",
         "Zagreb County"
     ],
-    "cu": [
+    cu: [
         "Artemisa",
         "La Habana",
         "Las Tunas",
@@ -866,7 +854,7 @@ var states = {
         "Provincia Granma",
         "Provincia Mayabeque"
     ],
-    "cy": [
+    cy: [
         "Eparchia Ammochosto",
         "Eparchia Keryneias",
         "Eparchia Larnakas",
@@ -874,7 +862,7 @@ var states = {
         "Eparchia Lemeso",
         "Eparchia Pafo"
     ],
-    "cz": [
+    cz: [
         "Hlavni mesto Praha",
         "Jihocesky kraj",
         "Jihomoravsky kraj",
@@ -890,7 +878,7 @@ var states = {
         "Ustecky kraj",
         "Zlinsky kraj"
     ],
-    "cd": [
+    cd: [
         "Bas Uele",
         "Haut Uele",
         "Haut-Lomani",
@@ -918,14 +906,14 @@ var states = {
         "Tshopo",
         "Tshuapa"
     ],
-    "dk": [
+    dk: [
         "North Denmark Region",
         "Region Hovedstaden",
         "Region Midtjylland",
         "Region Sjaelland",
         "Region Syddanmark"
     ],
-    "dj": [
+    dj: [
         "Ali Sabieh Region",
         "Arta Region",
         "Dikhil",
@@ -933,7 +921,7 @@ var states = {
         "Obock",
         "Tadjourah"
     ],
-    "dm": [
+    dm: [
         "Saint Andrew",
         "Saint David",
         "Saint George",
@@ -945,7 +933,7 @@ var states = {
         "Saint Paul",
         "Saint Peter"
     ],
-    "do": [
+    do: [
         "Distrito Nacional",
         "Provincia de Azua",
         "Provincia de Baoruco",
@@ -979,7 +967,7 @@ var states = {
         "Provincia Sanchez Ramirez",
         "Samana Province"
     ],
-    "ec": [
+    ec: [
         "Provincia de Bolivar",
         "Provincia de Cotopaxi",
         "Provincia de El Oro",
@@ -1005,7 +993,7 @@ var states = {
         "Provincia del Pastaza",
         "Provincia del Tungurahua"
     ],
-    "eg": [
+    eg: [
         "As Suways",
         "Beheira Governorate",
         "Cairo Governorate",
@@ -1034,7 +1022,7 @@ var states = {
         "Red Sea Governorate",
         "South Sinai Governorate"
     ],
-    "sv": [
+    sv: [
         "Departamento de Ahuachapan",
         "Departamento de Cabanas",
         "Departamento de Chalatenango",
@@ -1050,7 +1038,7 @@ var states = {
         "Departamento de Sonsonate",
         "Departamento de Usulutan"
     ],
-    "gq": [
+    gq: [
         "Provincia de Annobon",
         "Provincia de Bioko Norte",
         "Provincia de Bioko Sur",
@@ -1059,7 +1047,7 @@ var states = {
         "Provincia de Litoral",
         "Provincia de Wele-Nzas"
     ],
-    "er": [
+    er: [
         "Anseba Region",
         "Debub Region",
         "Gash-Barka Region",
@@ -1067,7 +1055,7 @@ var states = {
         "Northern Red Sea Region",
         "Southern Red Sea Region"
     ],
-    "ee": [
+    ee: [
         "Harjumaa",
         "Hiiumaa",
         "Ida-Virumaa",
@@ -1084,7 +1072,7 @@ var states = {
         "Viljandimaa",
         "Vorumaa"
     ],
-    "et": [
+    et: [
         "Adis Abeba Astedader",
         "Afar Region",
         "Amhara Region",
@@ -1097,8 +1085,8 @@ var states = {
         "Southern Nations, Nationalities, and People's Region",
         "Tigray Region"
     ],
-    "fk": [],
-    "fo": [
+    fk: [],
+    fo: [
         "Eysturoyar sysla",
         "Nordoyar sysla",
         "Sandoyar Sysla",
@@ -1106,20 +1094,15 @@ var states = {
         "Suduroyar sysla",
         "Vaga Sysla"
     ],
-    "fm": [
-        "State of Chuuk",
-        "State of Kosrae",
-        "State of Pohnpei",
-        "State of Yap"
-    ],
-    "fj": [
+    fm: ["State of Chuuk", "State of Kosrae", "State of Pohnpei", "State of Yap"],
+    fj: [
         "Central Division",
         "Eastern Division",
         "Northern Division",
         "Rotuma",
         "Western Division"
     ],
-    "fi": [
+    fi: [
         "Etela-Pohjanmaa",
         "Etelae-Karjala",
         "Kainu",
@@ -1139,7 +1122,7 @@ var states = {
         "Uusimaa",
         "Varsinais-Suomi"
     ],
-    "fr": [
+    fr: [
         "Auvergne-Rhone-Alpes",
         "Bourgogne-Franche-Comte",
         "Bretagne",
@@ -1154,24 +1137,22 @@ var states = {
         "Pays de la Loire",
         "Provence-Alpes-Cote d'Azur"
     ],
-    "gf": [
-        "Guyane"
-    ],
-    "pf": [
+    gf: ["Guyane"],
+    pf: [
         "Iles Australes",
         "Iles du Vent",
         "Iles Marquises",
         "Iles Sous-le-Vent",
         "Iles Tuamotu-Gambier"
     ],
-    "tf": [
+    tf: [
         "Archipel des Crozet",
         "Archipel des Kerguelen",
         "Iles Eparses de l'ocean Indien",
         "Iles Saint-Paul et Nouvelle-Amsterdam",
         "La Terre-Adelie"
     ],
-    "ga": [
+    ga: [
         "Estuaire",
         "Province de l'Ogooue-Ivindo",
         "Province de l'Ogooue-Lolo",
@@ -1182,7 +1163,7 @@ var states = {
         "Province du Moyen-Ogooue",
         "Province du Woleu-Ntem"
     ],
-    "gm": [
+    gm: [
         "Banjul",
         "Central River",
         "Lower River Division",
@@ -1190,7 +1171,7 @@ var states = {
         "Upper River",
         "West Coast"
     ],
-    "ge": [
+    ge: [
         "Abkhazia",
         "Ajaria",
         "Guria",
@@ -1204,7 +1185,7 @@ var states = {
         "Samtskhe-Javakheti",
         "Shida Kartli"
     ],
-    "de": [
+    de: [
         "Baden-Wuerttemberg Region",
         "Bavaria",
         "Brandenburg",
@@ -1222,7 +1203,7 @@ var states = {
         "Schleswig-Holstein",
         "Thuringia"
     ],
-    "gh": [
+    gh: [
         "Ashanti Region",
         "Brong-Ahafo Region",
         "Central Region",
@@ -1234,14 +1215,9 @@ var states = {
         "Volta Region",
         "Western Region"
     ],
-    "gi": [],
-    "gb": [
-        "England",
-        "Northern Ireland",
-        "Scotland",
-        "Wales"
-    ],
-    "gr": [
+    gi: [],
+    gb: ["England", "Northern Ireland", "Scotland", "Wales"],
+    gr: [
         "Attica",
         "Central Greece",
         "Central Macedonia",
@@ -1257,13 +1233,8 @@ var states = {
         "Western Greece",
         "Western Macedonia"
     ],
-    "gl": [
-        "Kujalleq",
-        "Qaasuitsup",
-        "Qeqqata",
-        "Sermersooq"
-    ],
-    "gd": [
+    gl: ["Kujalleq", "Qaasuitsup", "Qeqqata", "Sermersooq"],
+    gd: [
         "Carriacou and Petite Martinique",
         "Saint Andrew",
         "Saint David",
@@ -1272,10 +1243,8 @@ var states = {
         "Saint Mark",
         "Saint Patrick"
     ],
-    "gp": [
-        "Guadeloupe"
-    ],
-    "gt": [
+    gp: ["Guadeloupe"],
+    gt: [
         "Departamento de Alta Verapaz",
         "Departamento de Baja Verapaz",
         "Departamento de Chimaltenango",
@@ -1299,7 +1268,7 @@ var states = {
         "Departamento del Peten",
         "Departamento del Quiche"
     ],
-    "gn": [
+    gn: [
         "Boke Region",
         "Conakry Region",
         "Faranah Region",
@@ -1309,7 +1278,7 @@ var states = {
         "Mamou Region",
         "Nzerekore Region"
     ],
-    "gw": [
+    gw: [
         "Bafata",
         "Biombo",
         "Bissau Region",
@@ -1320,7 +1289,7 @@ var states = {
         "Quinara",
         "Tombali"
     ],
-    "gy": [
+    gy: [
         "Barima-Waini Region",
         "Cuyuni-Mazaruni Region",
         "Demerara-Mahaica Region",
@@ -1332,7 +1301,7 @@ var states = {
         "Upper Demerara-Berbice Region",
         "Upper Takutu-Upper Essequibo Region"
     ],
-    "ht": [
+    ht: [
         "Centre",
         "Departement de l'Artibonite",
         "Departement de l'Ouest",
@@ -1344,7 +1313,7 @@ var states = {
         "Sud",
         "Sud-Est"
     ],
-    "hn": [
+    hn: [
         "Departamento de Atlantida",
         "Departamento de Choluteca",
         "Departamento de Colon",
@@ -1364,7 +1333,7 @@ var states = {
         "Departamento de Valle",
         "Departamento de Yoro"
     ],
-    "hk": [
+    hk: [
         "Central and Western District",
         "Eastern",
         "Islands District",
@@ -1384,7 +1353,7 @@ var states = {
         "Yau Tsim Mong",
         "Yuen Long District"
     ],
-    "hu": [
+    hu: [
         "Bacs-Kiskun county",
         "Baranya county",
         "Bekes County",
@@ -1406,7 +1375,7 @@ var states = {
         "Veszprem megye",
         "Zala megye"
     ],
-    "is": [
+    is: [
         "Austurland",
         "Hoefudborgarsvaedi",
         "Nordurland Eystra",
@@ -1416,7 +1385,7 @@ var states = {
         "Vestfirdir",
         "Vesturland"
     ],
-    "in": [
+    in: [
         "Assam",
         "Goa",
         "Madhya Pradesh",
@@ -1454,7 +1423,7 @@ var states = {
         "Uttar Pradesh",
         "West Bengal"
     ],
-    "id": [
+    id: [
         "Banten",
         "Daerah Istimewa Yogyakarta",
         "Daerah Khusus Ibukota Jakarta",
@@ -1490,7 +1459,7 @@ var states = {
         "Sumatera Utara",
         "West Nusa Tenggara"
     ],
-    "ir": [
+    ir: [
         "Alborz",
         "Bushehr",
         "East Azerbaijan",
@@ -1523,7 +1492,7 @@ var states = {
         "Sistan and Baluchestan",
         "Yazd"
     ],
-    "iq": [
+    iq: [
         "An Najaf",
         "Dihok",
         "Diyala",
@@ -1543,13 +1512,8 @@ var states = {
         "Muhafazat Salah ad Din",
         "Muhafazat Wasit"
     ],
-    "ie": [
-        "Connaught",
-        "Leinster",
-        "Munster",
-        "Ulster"
-    ],
-    "il": [
+    ie: ["Connaught", "Leinster", "Munster", "Ulster"],
+    il: [
         "Central District",
         "Haifa",
         "Jerusalem",
@@ -1557,7 +1521,7 @@ var states = {
         "Southern District",
         "Tel Aviv District"
     ],
-    "it": [
+    it: [
         "Abruzzo",
         "Basilicata",
         "Calabria",
@@ -1579,7 +1543,7 @@ var states = {
         "Umbria",
         "Veneto"
     ],
-    "jm": [
+    jm: [
         "Clarendon",
         "Kingston",
         "Manchester",
@@ -1595,7 +1559,7 @@ var states = {
         "Trelawny",
         "Westmoreland"
     ],
-    "jp": [
+    jp: [
         "Aichi-ken",
         "Akita",
         "Aomori-ken",
@@ -1644,7 +1608,7 @@ var states = {
         "Yamaguchi",
         "Yamanashi"
     ],
-    "jo": [
+    jo: [
         "Ajloun",
         "Al Karak",
         "Al Mafraq",
@@ -1658,7 +1622,7 @@ var states = {
         "Muhafazat Ma'an",
         "Muhafazat Madaba"
     ],
-    "kz": [
+    kz: [
         "Aktyubinskaya Oblast'",
         "Almaty Oblysy",
         "Almaty Qalasy",
@@ -1677,7 +1641,7 @@ var states = {
         "West Kazakhstan",
         "Zhambyl Oblysy"
     ],
-    "ke": [
+    ke: [
         "Baringo District",
         "Bomet District",
         "Bungoma District",
@@ -1726,12 +1690,8 @@ var states = {
         "Wajir District",
         "West Pokot District"
     ],
-    "ki": [
-        "Gilbert Islands",
-        "Line Islands",
-        "Phoenix Islands"
-    ],
-    "kp": [
+    ki: ["Gilbert Islands", "Line Islands", "Phoenix Islands"],
+    kp: [
         "Chagang-do",
         "Hambuk",
         "Hamnam",
@@ -1744,7 +1704,7 @@ var states = {
         "Rason",
         "Ryanggang"
     ],
-    "kr": [
+    kr: [
         "Busan",
         "Chungcheongbuk-do",
         "Chungcheongnam-do",
@@ -1763,7 +1723,7 @@ var states = {
         "Seoul",
         "Ulsan"
     ],
-    "kw": [
+    kw: [
         "Al Asimah Governorate",
         "Muhafazat al Ahmadi",
         "Muhafazat al Farwaniyah",
@@ -1771,7 +1731,7 @@ var states = {
         "Muhafazat Hawalli",
         "Muhafazat Mubarak al Kabir"
     ],
-    "kg": [
+    kg: [
         "Batken",
         "Chuyskaya Oblast'",
         "Gorod Bishkek",
@@ -1782,7 +1742,7 @@ var states = {
         "Osh Oblasty",
         "Talas"
     ],
-    "la": [
+    la: [
         "Attap",
         "Bolikhamxai",
         "Champasak",
@@ -1802,7 +1762,7 @@ var states = {
         "Xaisomboun Province",
         "Xiangkhouang"
     ],
-    "lv": [
+    lv: [
         "Adazu Novads",
         "Aglonas Novads",
         "Aizkraukles Rajons",
@@ -1923,7 +1883,7 @@ var states = {
         "Vilanu Novads",
         "Zilupes Novads"
     ],
-    "lb": [
+    lb: [
         "Beyrouth",
         "Mohafazat Aakkar",
         "Mohafazat Baalbek-Hermel",
@@ -1933,7 +1893,7 @@ var states = {
         "Mohafazat Mont-Liban",
         "Mohafazat Nabatiye"
     ],
-    "ls": [
+    ls: [
         "Berea",
         "Butha-Buthe",
         "Leribe District",
@@ -1945,7 +1905,7 @@ var states = {
         "Quthing",
         "Thaba-Tseka"
     ],
-    "lr": [
+    lr: [
         "Bomi County",
         "Bong County",
         "Gbarpolu County",
@@ -1962,7 +1922,7 @@ var states = {
         "River Gee County",
         "Sinoe County"
     ],
-    "ly": [
+    ly: [
         "Al Jufrah",
         "Al Kufrah",
         "Al Marj",
@@ -1986,7 +1946,7 @@ var states = {
         "Surt",
         "Tripoli"
     ],
-    "li": [
+    li: [
         "Balzers",
         "Eschen",
         "Gamprin",
@@ -1999,7 +1959,7 @@ var states = {
         "Triesenberg",
         "Vaduz"
     ],
-    "lt": [
+    lt: [
         "Alytus County",
         "Kaunas County",
         "Klaipeda County",
@@ -2011,7 +1971,7 @@ var states = {
         "Utena County",
         "Vilniaus apskritis"
     ],
-    "lu": [
+    lu: [
         "Canton d'Echternach",
         "Canton d'Esch-sur-Alzette",
         "Capellen",
@@ -2025,8 +1985,8 @@ var states = {
         "Vianden",
         "Wiltz"
     ],
-    "mo": [],
-    "mk": [
+    mo: [],
+    mk: [
         "Aerodrom",
         "Berovo",
         "Bitola",
@@ -2113,7 +2073,7 @@ var states = {
         "Zelenikovo",
         "Zrnovci"
     ],
-    "mg": [
+    mg: [
         "Alaotra Mangoro Region",
         "Amoron'i Mania Region",
         "Analamanga Region",
@@ -2137,12 +2097,8 @@ var states = {
         "Vakinankaratra Region",
         "Vatovavy Fitovinany Region"
     ],
-    "mw": [
-        "Central Region",
-        "Northern Region",
-        "Southern Region"
-    ],
-    "my": [
+    mw: ["Central Region", "Northern Region", "Southern Region"],
+    my: [
         "Johor",
         "Kedah",
         "Kelantan",
@@ -2160,7 +2116,7 @@ var states = {
         "Selangor",
         "Terenggan"
     ],
-    "mv": [
+    mv: [
         "Alifu Atholh",
         "Baa Atholh",
         "Dhaalu Atholh",
@@ -2182,7 +2138,7 @@ var states = {
         "Thaa Atholh",
         "Vaavu Atholh"
     ],
-    "ml": [
+    ml: [
         "Bamako Region",
         "Gao Region",
         "Kayes Region",
@@ -2193,7 +2149,7 @@ var states = {
         "Sikasso Region",
         "Tombouctou Region"
     ],
-    "mt": [
+    mt: [
         "Attard",
         "Balzan",
         "Birkirkara",
@@ -2263,7 +2219,7 @@ var states = {
         "Tas-Sliema",
         "Victoria"
     ],
-    "mh": [
+    mh: [
         "Ailinginae Atoll",
         "Ailinglaplap Atoll",
         "Ailuk Atoll",
@@ -2298,10 +2254,8 @@ var states = {
         "Wotho Atoll",
         "Wotje Atoll"
     ],
-    "mq": [
-        "Martinique"
-    ],
-    "mr": [
+    mq: ["Martinique"],
+    mr: [
         "Adrar",
         "Assaba",
         "Brakna",
@@ -2318,7 +2272,7 @@ var states = {
         "Tiris Zemmour",
         "Wilaya du Trarza"
     ],
-    "mu": [
+    mu: [
         "Agalega Islands",
         "Black River District",
         "Cargados Carajos",
@@ -2332,7 +2286,7 @@ var states = {
         "Rodrigues",
         "Savanne District"
     ],
-    "yt": [
+    yt: [
         "Acoua",
         "Bandraboua",
         "Bandrele",
@@ -2351,7 +2305,7 @@ var states = {
         "Sada",
         "Tsingoni"
     ],
-    "mx": [
+    mx: [
         "Ciudad de Mexico",
         "Estado de Aguascalientes",
         "Estado de Baja California",
@@ -2385,7 +2339,7 @@ var states = {
         "Estado de Yucatan",
         "Estado de Zacatecas"
     ],
-    "md": [
+    md: [
         "Anenii Noi",
         "Basarabeasca",
         "Briceni",
@@ -2424,10 +2378,8 @@ var states = {
         "Telenesti",
         "Unitatea Teritoriala din Stinga Nistrului"
     ],
-    "mc": [
-        "Commune de Monaco"
-    ],
-    "mn": [
+    mc: ["Commune de Monaco"],
+    mn: [
         "Arhangay Aymag",
         "Bayan-OElgiy Aymag",
         "Bayanhongor Aymag",
@@ -2451,12 +2403,12 @@ var states = {
         "Ulaanbaatar Hot",
         "Uvs Aymag"
     ],
-    "ms": [
+    ms: [
         "Parish of Saint Anthony",
         "Parish of Saint Georges",
         "Parish of Saint Peter"
     ],
-    "ma": [
+    ma: [
         "Beni Mellal-Khenifra",
         "Casablanca-Settat",
         "Dakhla-Oued Ed-Dahab",
@@ -2470,7 +2422,7 @@ var states = {
         "Souss-Massa",
         "Tanger-Tetouan-Al Hoceima"
     ],
-    "mz": [
+    mz: [
         "Cabo Delgado Province",
         "Cidade de Maputo",
         "Gaza Province",
@@ -2483,7 +2435,7 @@ var states = {
         "Sofala Province",
         "Tete"
     ],
-    "mm": [
+    mm: [
         "Ayeyawady Region",
         "Bago Region",
         "Chin State",
@@ -2500,7 +2452,7 @@ var states = {
         "Taninthayi Region",
         "Yangon Region"
     ],
-    "na": [
+    na: [
         "Erongo",
         "Hardap",
         "Karas",
@@ -2516,7 +2468,7 @@ var states = {
         "Otjozondjupa",
         "Zambezi Region"
     ],
-    "nr": [
+    nr: [
         "Aiwo District",
         "Anabar District",
         "Anetan District",
@@ -2532,7 +2484,7 @@ var states = {
         "Uaboe District",
         "Yaren"
     ],
-    "np": [
+    np: [
         "Madhya Pashchimanchal",
         "Madhyamanchal",
         "Pashchimanchal",
@@ -2540,7 +2492,7 @@ var states = {
         "Purwanchal",
         "Sudur Pashchimanchal"
     ],
-    "nl": [
+    nl: [
         "Provincie Drenthe",
         "Provincie Flevoland",
         "Provincie Friesland",
@@ -2554,13 +2506,9 @@ var states = {
         "Provincie Zeeland",
         "Provincie Zuid-Holland"
     ],
-    "an": [],
-    "nc": [
-        "Province des iles Loyaute",
-        "Province Nord",
-        "Province Sud"
-    ],
-    "nz": [
+    an: [],
+    nc: ["Province des iles Loyaute", "Province Nord", "Province Sud"],
+    nz: [
         "Auckland",
         "Bay of Plenty",
         "Canterbury",
@@ -2579,7 +2527,7 @@ var states = {
         "Wellington",
         "West Coast"
     ],
-    "ni": [
+    ni: [
         "Costa Caribe Sur",
         "Departamento de Boaco",
         "Departamento de Carazo",
@@ -2598,7 +2546,7 @@ var states = {
         "Departamento de Rivas",
         "North Atlantic Autonomous Region (RAAN)"
     ],
-    "ne": [
+    ne: [
         "Agadez",
         "Diffa",
         "Dosso Region",
@@ -2608,7 +2556,7 @@ var states = {
         "Tillaberi Region",
         "Zinder"
     ],
-    "ng": [
+    ng: [
         "Abia State",
         "Adamawa State",
         "Akwa Ibom State",
@@ -2647,15 +2595,15 @@ var states = {
         "Yobe State",
         "Zamfara State"
     ],
-    "nu": [],
-    "nf": [],
-    "mp": [
+    nu: [],
+    nf: [],
+    mp: [
         "Northern Islands Municipality",
         "Rota Municipality",
         "Saipan Municipality",
         "Tinian Municipality"
     ],
-    "no": [
+    no: [
         "Akershus fylke",
         "Aust-Agder fylke",
         "Buskerud fylke",
@@ -2676,7 +2624,7 @@ var states = {
         "Vest-Agder Fylke",
         "Vestfold fylke"
     ],
-    "gg": [
+    gg: [
         "Alderney",
         "Castel",
         "Forest",
@@ -2689,7 +2637,7 @@ var states = {
         "Torteval",
         "Vale"
     ],
-    "om": [
+    om: [
         "Al Batinah North Governorate",
         "Al Batinah South Governorate",
         "Ash Sharqiyah South",
@@ -2702,7 +2650,7 @@ var states = {
         "Muhafazat Zufar",
         "Musandam"
     ],
-    "pk": [
+    pk: [
         "Azad Kashmir",
         "Balochistan",
         "Federally Administered Tribal Areas",
@@ -2712,7 +2660,7 @@ var states = {
         "Punjab Province",
         "Sindh"
     ],
-    "pw": [
+    pw: [
         "State of Aimeliik",
         "State of Airai",
         "State of Angaur",
@@ -2730,11 +2678,8 @@ var states = {
         "State of Peleli",
         "State of Sonsorol"
     ],
-    "ps": [
-        "Gaza Strip",
-        "West Bank"
-    ],
-    "pa": [
+    ps: ["Gaza Strip", "West Bank"],
+    pa: [
         "Embera-Wounaan",
         "Guna Yala",
         "Ngoebe-Bugle",
@@ -2749,7 +2694,7 @@ var states = {
         "Provincia de Veraguas",
         "Provincia del Darien"
     ],
-    "pg": [
+    pg: [
         "Bougainville",
         "Central Province",
         "Chimbu Province",
@@ -2773,7 +2718,7 @@ var states = {
         "Western Highlands Province",
         "Western Province"
     ],
-    "py": [
+    py: [
         "Asuncion",
         "Departamento Central",
         "Departamento de Alto Paraguay",
@@ -2793,7 +2738,7 @@ var states = {
         "Departamento del Amambay",
         "Departamento del Guaira"
     ],
-    "pe": [
+    pe: [
         "Amazonas",
         "Ancash",
         "Apurimac",
@@ -2821,7 +2766,7 @@ var states = {
         "Tumbes",
         "Ucayali"
     ],
-    "ph": [
+    ph: [
         "Autonomous Region in Muslim Mindanao",
         "Bicol",
         "Cagayan Valley",
@@ -2841,8 +2786,8 @@ var states = {
         "Western Visayas",
         "Zamboanga Peninsula"
     ],
-    "pn": [],
-    "pl": [
+    pn: [],
+    pl: [
         "Wojewodztwo Dolnoslaskie",
         "Wojewodztwo Kujawsko-Pomorskie",
         "Wojewodztwo Lodzkie",
@@ -2860,7 +2805,7 @@ var states = {
         "Wojewodztwo Wielkopolskie",
         "Wojewodztwo Zachodniopomorskie"
     ],
-    "pt": [
+    pt: [
         "Azores",
         "Distrito da Guarda",
         "Distrito de Aveiro",
@@ -2882,7 +2827,7 @@ var states = {
         "Distrito do Porto",
         "Madeira"
     ],
-    "qa": [
+    qa: [
         "Al Wakrah",
         "Baladiyat ad Dawhah",
         "Baladiyat al Khawr wa adh Dhakhirah",
@@ -2891,10 +2836,8 @@ var states = {
         "Baladiyat az Za'ayin",
         "Baladiyat Umm Salal"
     ],
-    "re": [
-        "Reunion"
-    ],
-    "ro": [
+    re: ["Reunion"],
+    ro: [
         "Arad",
         "Bihor",
         "Bucuresti",
@@ -2938,7 +2881,7 @@ var states = {
         "Vaslui",
         "Vrancea"
     ],
-    "ru": [
+    ru: [
         "Altayskiy Kray",
         "Amurskaya Oblast'",
         "Arkhangel'skaya Oblast'",
@@ -3023,20 +2966,16 @@ var states = {
         "Yevreyskaya Avtonomnaya Oblast'",
         "Zabaykal'skiy Kray"
     ],
-    "rw": [
+    rw: [
         "Eastern Province",
         "Kigali Province",
         "Northern Province",
         "Southern Province",
         "Western Province"
     ],
-    "gs": [],
-    "sh": [
-        "Ascension",
-        "Saint Helena",
-        "Tristan da Cunha"
-    ],
-    "kn": [
+    gs: [],
+    sh: ["Ascension", "Saint Helena", "Tristan da Cunha"],
+    kn: [
         "Christ Church Nichola Town",
         "Saint Anne Sandy Point",
         "Saint George Basseterre",
@@ -3052,7 +2991,7 @@ var states = {
         "Saint Thomas Middle Island",
         "Trinity Palmetto Point"
     ],
-    "lc": [
+    lc: [
         "Anse-la-Raye",
         "Canaries",
         "Castries",
@@ -3064,11 +3003,8 @@ var states = {
         "Soufriere",
         "Vieux-Fort"
     ],
-    "pm": [
-        "Commune de Saint-Pierre",
-        "Miquelon-Langlade"
-    ],
-    "vc": [
+    pm: ["Commune de Saint-Pierre", "Miquelon-Langlade"],
+    vc: [
         "Grenadines",
         "Parish of Charlotte",
         "Parish of Saint Andrew",
@@ -3076,7 +3012,7 @@ var states = {
         "Parish of Saint George",
         "Parish of Saint Patrick"
     ],
-    "ws": [
+    ws: [
         "A'ana",
         "Aiga-i-le-Tai",
         "Atua",
@@ -3089,7 +3025,7 @@ var states = {
         "Va'a-o-Fonoti",
         "Vaisigano"
     ],
-    "sm": [
+    sm: [
         "Castello di Acquaviva",
         "Castello di Borgo Maggiore",
         "Castello di Domagnano",
@@ -3100,11 +3036,8 @@ var states = {
         "Chiesanuova",
         "Serravalle"
     ],
-    "st": [
-        "Principe",
-        "Sao Tome"
-    ],
-    "sa": [
+    st: ["Principe", "Sao Tome"],
+    sa: [
         "Al Jawf",
         "Al Madinah al Munawwarah",
         "Al Mintaqah ash Sharqiyah",
@@ -3119,7 +3052,7 @@ var states = {
         "Mintaqat Najran",
         "Mintaqat Tabuk"
     ],
-    "sn": [
+    sn: [
         "Dakar",
         "Diourbel",
         "Fatick",
@@ -3135,7 +3068,7 @@ var states = {
         "Tambacounda",
         "Ziguinchor"
     ],
-    "sc": [
+    sc: [
         "Anse aux Pins",
         "Anse Boilea",
         "Anse Etoile",
@@ -3162,20 +3095,20 @@ var states = {
         "Saint Louis",
         "Takamaka"
     ],
-    "sl": [
+    sl: [
         "Eastern Province",
         "Northern Province",
         "Southern Province",
         "Western Area"
     ],
-    "sg": [
+    sg: [
         "Central Singapore Community Development Council",
         "North East Community Development Region",
         "North West Community Development Council",
         "South East Community Development Council",
         "South West Community Development Council"
     ],
-    "sk": [
+    sk: [
         "Banska Bystrica",
         "Bratislava",
         "Kosice",
@@ -3185,7 +3118,7 @@ var states = {
         "Trnava",
         "Zilina"
     ],
-    "si": [
+    si: [
         "Ankaran",
         "Beltinci",
         "Benedikt",
@@ -3399,7 +3332,7 @@ var states = {
         "Vuzenica",
         "Zagorje ob Savi"
     ],
-    "sb": [
+    sb: [
         "Central Province",
         "Choiseul",
         "Guadalcanal Province",
@@ -3411,7 +3344,7 @@ var states = {
         "Temotu Province",
         "Western Province"
     ],
-    "so": [
+    so: [
         "Gobolka Awdal",
         "Gobolka Bakool",
         "Gobolka Banaadir",
@@ -3431,7 +3364,7 @@ var states = {
         "Gobolka Togdheer",
         "Gobolka Woqooyi Galbeed"
     ],
-    "za": [
+    za: [
         "Eastern Cape",
         "Free State",
         "Gauteng",
@@ -3442,7 +3375,7 @@ var states = {
         "Province of Northern Cape",
         "Western Cape"
     ],
-    "es": [
+    es: [
         "Andalucia",
         "Aragon",
         "Canary Islands",
@@ -3463,7 +3396,7 @@ var states = {
         "Principality of Asturias",
         "Region de Murcia"
     ],
-    "lk": [
+    lk: [
         "Central Province",
         "Eastern Province",
         "North Central Province",
@@ -3474,7 +3407,7 @@ var states = {
         "Southern Province",
         "Western Province"
     ],
-    "sd": [
+    sd: [
         "Al Jazirah State",
         "Al Qadarif State",
         "Blue Nile",
@@ -3494,7 +3427,7 @@ var states = {
         "West Kordofan State",
         "White Nile"
     ],
-    "sr": [
+    sr: [
         "Distrikt Brokopondo",
         "Distrikt Commewijne",
         "Distrikt Coronie",
@@ -3506,17 +3439,14 @@ var states = {
         "Distrikt Sipaliwini",
         "Distrikt Wanica"
     ],
-    "sj": [
-        "Jan Mayen",
-        "Svalbard"
-    ],
-    "sz": [
+    sj: ["Jan Mayen", "Svalbard"],
+    sz: [
         "Hhohho District",
         "Lubombo District",
         "Manzini District",
         "Shiselweni District"
     ],
-    "se": [
+    se: [
         "Blekinge",
         "Dalarna",
         "Gaevleborgs laen",
@@ -3539,7 +3469,7 @@ var states = {
         "Vaestmanlands laen",
         "Vaestra Goetalands laen"
     ],
-    "ch": [
+    ch: [
         "Canton de Berne",
         "Canton de Fribourg",
         "Canton de Vaud",
@@ -3567,7 +3497,7 @@ var states = {
         "Neuchatel",
         "Ticino"
     ],
-    "sy": [
+    sy: [
         "Al-Hasakah Governorate",
         "Aleppo Governorate",
         "Ar-Raqqah Governorate",
@@ -3583,20 +3513,15 @@ var states = {
         "Quneitra Governorate",
         "Tartus Governorate"
     ],
-    "tw": [
-        "Fukien",
-        "Kaohsiung",
-        "Taipei",
-        "Taiwan"
-    ],
-    "tj": [
+    tw: ["Fukien", "Kaohsiung", "Taipei", "Taiwan"],
+    tj: [
         "Districts of Republican Subordination",
         "Dushanbe",
         "Viloyati Khatlon",
         "Viloyati Mukhtori Kuhistoni Badakhshon",
         "Viloyati Sughd"
     ],
-    "tz": [
+    tz: [
         "Arusha Region",
         "Coast Region",
         "Dar es Salaam Region",
@@ -3628,7 +3553,7 @@ var states = {
         "Zanzibar North Region",
         "Zanzibar Urban/West Region"
     ],
-    "th": [
+    th: [
         "Bangkok",
         "Changwat Amnat Charoen",
         "Changwat Ang Thong",
@@ -3707,26 +3632,10 @@ var states = {
         "Chiang Mai Province",
         "Phuket Province"
     ],
-    "tg": [
-        "Centrale",
-        "Kara",
-        "Maritime",
-        "Plateaux",
-        "Savanes"
-    ],
-    "tk": [
-        "Ataf",
-        "Fakaofo",
-        "Nukunon"
-    ],
-    "to": [
-        "Eua",
-        "Ha`apai",
-        "Niuas",
-        "Tongatap",
-        "Vava'"
-    ],
-    "tt": [
+    tg: ["Centrale", "Kara", "Maritime", "Plateaux", "Savanes"],
+    tk: ["Ataf", "Fakaofo", "Nukunon"],
+    to: ["Eua", "Ha`apai", "Niuas", "Tongatap", "Vava'"],
+    tt: [
         "Arima",
         "Chaguanas",
         "City of Port of Spain",
@@ -3743,7 +3652,7 @@ var states = {
         "Tobago",
         "Tunapuna/Piarco"
     ],
-    "tn": [
+    tn: [
         "Gafsa Governorate",
         "Gouvernorat de Beja",
         "Gouvernorat de Ben Arous",
@@ -3769,7 +3678,7 @@ var states = {
         "Manouba",
         "Tataouine"
     ],
-    "tr": [
+    tr: [
         "Adana",
         "Adiyaman",
         "Afyonkarahisar",
@@ -3852,16 +3761,9 @@ var states = {
         "Yozgat",
         "Zonguldak"
     ],
-    "tm": [
-        "Ahal",
-        "Ashgabat",
-        "Balkan",
-        "Dasoguz Welayaty",
-        "Lebap",
-        "Mary"
-    ],
-    "tc": [],
-    "tv": [
+    tm: ["Ahal", "Ashgabat", "Balkan", "Dasoguz Welayaty", "Lebap", "Mary"],
+    tc: [],
+    tv: [
         "Funafuti",
         "Nanumanga",
         "Nanumea",
@@ -3871,13 +3773,8 @@ var states = {
         "Nukulaelae",
         "Vaitup"
     ],
-    "ug": [
-        "Central Region",
-        "Eastern Region",
-        "Northern Region",
-        "Western Region"
-    ],
-    "ua": [
+    ug: ["Central Region", "Eastern Region", "Northern Region", "Western Region"],
+    ua: [
         "Cherkas'ka Oblast'",
         "Chernihivs'ka Oblast'",
         "Chernivets'ka Oblast'",
@@ -3906,7 +3803,7 @@ var states = {
         "Zaporiz'ka Oblast'",
         "Zhytomyrs'ka Oblast'"
     ],
-    "ae": [
+    ae: [
         "`Ajman",
         "Abu Zaby",
         "Al Fujayrah",
@@ -3915,7 +3812,7 @@ var states = {
         "Ra's al Khaymah",
         "Umm al Qaywayn"
     ],
-    "us": [
+    us: [
         "Alabama",
         "Alaska",
         "Arizona",
@@ -3968,7 +3865,7 @@ var states = {
         "Wisconsin",
         "Wyoming"
     ],
-    "uy": [
+    uy: [
         "Departamento de Artigas",
         "Departamento de Canelones",
         "Departamento de Cerro Largo",
@@ -3989,7 +3886,7 @@ var states = {
         "Departamento de Tacuarembo",
         "Departamento de Treinta y Tres"
     ],
-    "uz": [
+    uz: [
         "Andijan",
         "Bukhara Province",
         "Fergana",
@@ -4005,7 +3902,7 @@ var states = {
         "Toshkent Viloyati",
         "Xorazm Viloyati"
     ],
-    "vu": [
+    vu: [
         "Malampa Province",
         "Penama Province",
         "Sanma Province",
@@ -4013,7 +3910,7 @@ var states = {
         "Tafea Province",
         "Torba Province"
     ],
-    "ve": [
+    ve: [
         "Delta Amacuro",
         "Dependencias Federales",
         "Distrito Capital",
@@ -4040,7 +3937,7 @@ var states = {
         "Estado Zulia",
         "Miranda"
     ],
-    "vn": [
+    vn: [
         "An Giang",
         "Dak Nong",
         "Gia Lai",
@@ -4105,19 +4002,11 @@ var states = {
         "Tinh Vinh Phuc",
         "Tinh Yen Bai"
     ],
-    "vg": [],
-    "vi": [
-        "Saint Croix Island",
-        "Saint John Island",
-        "Saint Thomas Island"
-    ],
-    "wf": [
-        "Alo",
-        "Sigave",
-        "Uvea"
-    ],
-    "eh": [],
-    "ye": [
+    vg: [],
+    vi: ["Saint Croix Island", "Saint John Island", "Saint Thomas Island"],
+    wf: ["Alo", "Sigave", "Uvea"],
+    eh: [],
+    ye: [
         "Al Bayda Governorate",
         "Al Mahrah",
         "Al Mahwit",
@@ -4141,8 +4030,8 @@ var states = {
         "Shabwah",
         "Socotra"
     ],
-    "zr": [],
-    "zm": [
+    zr: [],
+    zm: [
         "Central Province",
         "Copperbelt Province",
         "Eastern Province",
@@ -4154,7 +4043,7 @@ var states = {
         "Southern Province",
         "Western Province"
     ],
-    "zw": [
+    zw: [
         "Bulawayo Province",
         "Harare Province",
         "Manicaland Province",
