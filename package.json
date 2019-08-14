@@ -2,9 +2,11 @@
   "name": "country-state-picker",
   "version": "1.0.1",
   "description": "NPM package to get the list of countries and their states.",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --reporter spec",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -22,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/AnupKumarPanwar/country-state-picker/issues"
   },
-  "homepage": "https://github.com/AnupKumarPanwar/country-state-picker#readme"
+  "homepage": "https://github.com/AnupKumarPanwar/country-state-picker#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "typescript": "^3.5.3"
+  }
 }
