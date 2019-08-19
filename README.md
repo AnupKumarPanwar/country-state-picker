@@ -17,20 +17,24 @@ This function will return the array of all the countries.
 ```javascript
 [
     {
-        name: 'Afghanistan',
-        code: 'af'
+        "name": "Afghanistan",
+        "code": "af",
+        "dial_code": "+93"
     },
     {
-      name: 'Albania',
-      code: 'al'
+        "name": "Albania",
+        "code": "al",
+        "dial_code": "+355"
     },
     {
-      name: 'Algeria',
-      code: 'dz'
+        "name": "Algeria",
+        "code": "dz",
+        "dial_code": "+213"
     },
     {
-      name: 'Andorra',
-      code: 'ad'
+        "name": "Andorra",
+        "code": "ad",
+        "dial_code": "+376"
     }
   ...
 ]

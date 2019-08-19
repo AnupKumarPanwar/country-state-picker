@@ -1,6 +1,6 @@
 {
   "name": "country-state-picker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "NPM package to get the list of countries and their states.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -17,7 +17,9 @@
     "state",
     "picker",
     "location",
-    "place"
+    "place",
+    "dial code",
+    "phone code"
   ],
   "author": "Anup Kumar Panwar",
   "license": "ISC",

@@ -4030,7 +4030,6 @@ var states = {
         "Shabwah",
         "Socotra"
     ],
-    zr: [],
     zm: [
         "Central Province",
         "Copperbelt Province",
