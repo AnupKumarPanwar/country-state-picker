@@ -2,6 +2,8 @@
 
 NPM package to get the list of countries and their states.
 
+[![npm version](https://badge.fury.io/js/country-state-picker.svg)](https://badge.fury.io/js/country-state-picker)
+
 ## Installation
 
 `npm i country-state-picker --save`
