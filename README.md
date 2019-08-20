@@ -98,3 +98,27 @@ console.log(states)
     "West Bengal"
 ]
 ```
+
+### `getCountry(<country_name | country_code | dial_code>)`
+
+This function will return the country corresponding to the argument passed.
+
+### Example
+
+To get the country having dial code "+91", the function call will look like:
+
+```javascript
+let country = getCountry('+91');
+
+console.log(country)
+```
+
+#### Output
+
+```javascript
+{
+    "name": "India",
+    "code": "in",
+    "dial_code": "+91"
+}
+```

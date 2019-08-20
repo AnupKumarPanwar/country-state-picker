@@ -3,9 +3,33 @@ const expect = require('chai').expect;
 const index = require('../dist/index.js');
 describe('Country-state-picker function test', () => {
     it('should return Indian states', () => {
-        console.log(index.getCountries());
-        const result = index.getStates("in");
-        expect(JSON.stringify(result)).to.equal(JSON.stringify([
+        // console.log(index.getCountries());
+
+        const country1 = index.getCountry("in");
+        expect(JSON.stringify(country1)).to.equal(JSON.stringify({
+            "name": "India",
+            "code": "in",
+            "dial_code": "+91"
+        }));
+
+
+        const country2 = index.getCountry("india");
+        expect(JSON.stringify(country2)).to.equal(JSON.stringify({
+            "name": "India",
+            "code": "in",
+            "dial_code": "+91"
+        }));
+
+
+        const country3 = index.getCountry("+91");
+        expect(JSON.stringify(country2)).to.equal(JSON.stringify({
+            "name": "India",
+            "code": "in",
+            "dial_code": "+91"
+        }));
+
+        const states = index.getStates("in");
+        expect(JSON.stringify(states)).to.equal(JSON.stringify([
             "Assam",
             "Goa",
             "Madhya Pradesh",
