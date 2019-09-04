@@ -27,7 +27,7 @@ const countries: any = [
     {
         "name": "Anguilla",
         "code": "ai",
-        "dial_code": "+1 264"
+        "dial_code": "+1264"
     },
     {
         "name": "Antigua and Barbuda",
@@ -67,7 +67,7 @@ const countries: any = [
     {
         "name": "Bahamas",
         "code": "bs",
-        "dial_code": "+1 242"
+        "dial_code": "+1242"
     },
     {
         "name": "Bahrain",
@@ -82,7 +82,7 @@ const countries: any = [
     {
         "name": "Barbados",
         "code": "bb",
-        "dial_code": "+1 246"
+        "dial_code": "+1246"
     },
     {
         "name": "Belarus",
@@ -107,7 +107,7 @@ const countries: any = [
     {
         "name": "Bermuda",
         "code": "bm",
-        "dial_code": "+1 441"
+        "dial_code": "+1441"
     },
     {
         "name": "Bhutan",
@@ -235,12 +235,12 @@ const countries: any = [
         "dial_code": "+506"
     },
     {
-        "name": "Cote D'Ivoire (Ivory Coast)",
+        "name": "Cote D'Ivoire",
         "code": "ci",
         "dial_code": "+225"
     },
     {
-        "name": "Croatia (Hrvatska)",
+        "name": "Croatia",
         "code": "hr",
         "dial_code": "+385"
     },
@@ -277,12 +277,12 @@ const countries: any = [
     {
         "name": "Dominica",
         "code": "dm",
-        "dial_code": "+1 767"
+        "dial_code": "+1767"
     },
     {
         "name": "Dominican Republic",
         "code": "do",
-        "dial_code": "+1 849"
+        "dial_code": "+1849"
     },
     {
         "name": "Ecuador",
@@ -320,7 +320,7 @@ const countries: any = [
         "dial_code": "+251"
     },
     {
-        "name": "Falkland Islands (Malvinas)",
+        "name": "Falkland Islands",
         "code": "fk",
         "dial_code": "+500"
     },
@@ -412,7 +412,7 @@ const countries: any = [
     {
         "name": "Grenada",
         "code": "gd",
-        "dial_code": "+1 473"
+        "dial_code": "+1473"
     },
     {
         "name": "Guadeloupe",
@@ -502,7 +502,7 @@ const countries: any = [
     {
         "name": "Jamaica",
         "code": "jm",
-        "dial_code": "+1 876"
+        "dial_code": "+1876"
     },
     {
         "name": "Japan",
@@ -530,12 +530,12 @@ const countries: any = [
         "dial_code": "+686"
     },
     {
-        "name": "Korea (North)",
+        "name": "North Korea",
         "code": "kp",
         "dial_code": "+850"
     },
     {
-        "name": "Korea (South)",
+        "name": "South Korea",
         "code": "kr",
         "dial_code": "+82"
     },
@@ -730,7 +730,7 @@ const countries: any = [
         "dial_code": "+687"
     },
     {
-        "name": "New Zealand (Aotearoa)",
+        "name": "New Zealand",
         "code": "nz",
         "dial_code": "+64"
     },
@@ -762,7 +762,7 @@ const countries: any = [
     {
         "name": "Northern Mariana Islands",
         "code": "mp",
-        "dial_code": "+1 670"
+        "dial_code": "+1670"
     },
     {
         "name": "Norway",
@@ -872,12 +872,12 @@ const countries: any = [
     {
         "name": "Saint Kitts and Nevis",
         "code": "kn",
-        "dial_code": "+1 869"
+        "dial_code": "+1869"
     },
     {
         "name": "Saint Lucia",
         "code": "lc",
-        "dial_code": "+1 758"
+        "dial_code": "+1758"
     },
     {
         "name": "Saint Pierre and Miquelon",
@@ -887,7 +887,7 @@ const countries: any = [
     {
         "name": "Saint Vincent and the Grenadines",
         "code": "vc",
-        "dial_code": "+1 784"
+        "dial_code": "+1784"
     },
     {
         "name": "Samoa",
@@ -1037,7 +1037,7 @@ const countries: any = [
     {
         "name": "Trinidad and Tobago",
         "code": "tt",
-        "dial_code": "+1 868"
+        "dial_code": "+1868"
     },
     {
         "name": "Tunisia",
@@ -1057,7 +1057,7 @@ const countries: any = [
     {
         "name": "Turks and Caicos Islands",
         "code": "tc",
-        "dial_code": "+1 649"
+        "dial_code": "+1649"
     },
     {
         "name": "Tuvalu",
@@ -1112,12 +1112,12 @@ const countries: any = [
     {
         "name": "Virgin Islands (British)",
         "code": "vg",
-        "dial_code": "+1 284"
+        "dial_code": "+1284"
     },
     {
         "name": "Virgin Islands (U.S.)",
         "code": "vi",
-        "dial_code": "+1 340"
+        "dial_code": "+1340"
     },
     {
         "name": "Wallis and Futuna",
