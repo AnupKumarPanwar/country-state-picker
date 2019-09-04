@@ -122,3 +122,39 @@ console.log(country)
     "dial_code": "+91"
 }
 ```
+
+### `getFilteredCountries([<country_name | country_code | dial_code>])`
+
+This function will receive an array of arguments and return the array of countries corresponding to the argument.
+
+### Example
+
+To get only India, USA and Australia country objects, the function call will look like:
+
+```javascript
+let filteredCountries = getFilteredCountries(['+91', 'us', 'Australia']);
+
+console.log(filteredCountries)
+```
+
+#### Output
+
+```javascript
+[
+    {
+        "name": "India",
+        "code": "in",
+        "dial_code": "+91"
+    }, 
+    {
+        "name": "United States of America",
+        "code": "us",
+        "dial_code": "+1"
+    },
+    {
+        "name": "Australia",
+        "code": "au",
+        "dial_code": "+61"
+    }
+]
+```
