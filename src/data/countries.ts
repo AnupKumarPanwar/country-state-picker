@@ -1105,7 +1105,7 @@ const countries: any = [
     dial_code: '+58',
   },
   {
-    name: 'Viet Nam',
+    name: 'Vietnam',
     code: 'vn',
     dial_code: '+84',
   },
