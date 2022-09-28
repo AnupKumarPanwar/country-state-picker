@@ -1,4 +1,10 @@
-const countries: any = [
+export interface Country {
+  name: string
+  code: string
+  dial_code: string
+}
+
+const countries: Country[] = [
   {
     name: 'Afghanistan',
     code: 'af',
@@ -770,7 +776,7 @@ const countries: any = [
     dial_code: '+47',
   },
   {
-    name: 'NULL',
+    name: 'Guernsey',
     code: 'gg',
     dial_code: '+44',
   },
@@ -1145,4 +1151,5 @@ const countries: any = [
     dial_code: '+263',
   },
 ];
+
 export default countries;

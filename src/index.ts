@@ -1,49 +1,28 @@
-import countries from './data/countries';
+import countries, {Country} from './data/countries';
 import states from './data/states';
 
-const compare = (country: any, arg: string) => {
-  arg = arg.toLowerCase();
+const compare = (country: Country, arg: string) => {
+  const lowerCase = arg.toLocaleLowerCase();
+
   return (
-    country.code.toLowerCase() === arg || country.name.toLowerCase() === arg || country.dial_code.toLowerCase() === arg
+    country.code.toLocaleLowerCase() === lowerCase ||
+    country.name.toLocaleLowerCase() === lowerCase ||
+    country.dial_code.toLocaleLowerCase() === lowerCase
   );
 };
 
-export const getCountries = () => {
-  return countries;
-};
+export const getCountries = () => countries;
 
 export const getCountry = (arg: string) => {
-  const allCountries = getCountries();
-
-  for (const country of allCountries) {
-    if (compare(country, arg)) {
-      return country;
-    }
-  }
-
-  return null;
+  return getCountries().find((country) => compare(country, arg));
 };
 
-export const getFilteredCountries = (args: any) => {
-  const allCountries = getCountries();
-  const filteredCountries = [];
-
-  for (const arg of args) {
-    for (const country of allCountries) {
-      if (compare(country, arg)) {
-        filteredCountries.push(country);
-        break;
-      }
-    }
-  }
-
-  return filteredCountries;
+export const getFilteredCountries = (args: string[]) => {
+  return getCountries().filter(country => args.some((arg) => compare(country, arg)))
 };
 
-export const getStates = (countryCode: string) => {
-  try {
-    return states[countryCode];
-  } catch (error) {
-    return 'Invalid country code';
-  }
+export const getStates = (country: Country | string) => {
+  const code = typeof country === 'string' ? country.toLocaleLowerCase() : country.code
+
+  return states[code] || []
 };
