@@ -2031,7 +2031,7 @@ const states: any = {
     'Sabah',
     'Sarawak',
     'Selangor',
-    'Terenggan',
+    'Terengganu',
   ],
   mv: [
     'Alifu Atholh',
