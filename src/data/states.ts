@@ -1,4 +1,8 @@
-const states: any = {
+export interface States {
+  [key: string]: string[]
+}
+
+const states: States = {
   af: [
     'Badakhshan',
     'Badghis',
@@ -2680,22 +2684,22 @@ const states: any = {
   ],
   pn: [],
   pl: [
-    'Wojewodztwo Dolnoslaskie',
-    'Wojewodztwo Kujawsko-Pomorskie',
-    'Wojewodztwo Lodzkie',
-    'Wojewodztwo Lubelskie',
-    'Wojewodztwo Lubuskie',
-    'Wojewodztwo Malopolskie',
-    'Wojewodztwo Mazowieckie',
-    'Wojewodztwo Opolskie',
-    'Wojewodztwo Podkarpackie',
-    'Wojewodztwo Podlaskie',
-    'Wojewodztwo Pomorskie',
-    'Wojewodztwo Slaskie',
-    'Wojewodztwo Swietokrzyskie',
-    'Wojewodztwo Warminsko-Mazurskie',
-    'Wojewodztwo Wielkopolskie',
-    'Wojewodztwo Zachodniopomorskie',
+    'Dolnoślaskie',
+    'Kujawsko-Pomorskie',
+    'Lubelskie',
+    'Lubuskie',
+    'Mazowieckie',
+    'Małopolskie',
+    'Opolskie',
+    'Podkarpackie',
+    'Podlaskie',
+    'Pomorskie',
+    'Warmińsko-Mazurskie',
+    'Wielkopolskie',
+    'Zachodniopomorskie',
+    'Łódzkie',
+    'Ślaskie',
+    'Świetokrzyskie',
   ],
   pt: [
     'Azores',
